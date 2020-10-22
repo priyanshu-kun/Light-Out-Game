@@ -12,6 +12,7 @@ The goal of the puzzle is to switch all the lights off, preferably in as few but
  # CONTRIBUTION STEPS
   - [x] Fork this ripo
   - [x] Clone it in your local system
+  - [x] Run "npm install"
   - [x] Add changes in it
   - [x] Make a new branch
   - [x] Stages all changes
